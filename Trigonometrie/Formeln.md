@@ -49,4 +49,14 @@ Der Sinusstaz ist anwendbar, wenn in einem Dreieck folgende Information gegeben 
 **Seiten berechnen:** $\frac{a}{\sin(\alpha)}=\frac{b}{sin(\beta)}$
 
 **Winkel berechnen:** $\frac{\sin(\alpha)}{a}=\frac{\sin(\beta)}{b}$
-Test
+
+**Beispiel:**
+Gegeben ist ein Dreieck ABC:
+- Seite $a=10cm$
+- Winkel $\alpha = 40°$ (gegenüber von a)
+- Winkel $\beta = 60°$ (gegenüber von b)
+- gesucht: Seite b
+1. **Formel aufstellen**: $\frac{a}{\sin(\alpha)}=\frac{b}{\sin(\beta)}$
+2. **Einsetzen:** $\frac{10}{sin(40°)}=\frac{b}{sin(60°)}$
+3. **Nach b auflösen:** $b=\frac{10*\sin(60°)}{\sin(40°)}$
+4. **Berechnen:** $b\simeq 13,47cmn$
