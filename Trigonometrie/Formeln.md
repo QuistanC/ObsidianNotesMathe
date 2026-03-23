@@ -49,3 +49,4 @@ Der Sinusstaz ist anwendbar, wenn in einem Dreieck folgende Information gegeben 
 **Seiten berechnen:** $\frac{a}{\sin(\alpha)}=\frac{b}{sin(\beta)}$
 
 **Winkel berechnen:** $\frac{\sin(\alpha)}{a}=\frac{\sin(\beta)}{b}$
+Test
