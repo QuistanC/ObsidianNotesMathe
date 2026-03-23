@@ -11,14 +11,14 @@
             "id": "4e4fbe2f528b6891",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Funktionen/Bijektiv.md",
-                "bFile": "Funktionen/Bijektiv.md",
-                "aRef": ""
+                "file": "Trigonometrie/Formeln.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Bijektiv  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Formeln"
             }
           }
         ]

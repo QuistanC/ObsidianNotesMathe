@@ -60,3 +60,9 @@ Gegeben ist ein Dreieck ABC:
 2. **Einsetzen:** $\frac{10}{sin(40°)}=\frac{b}{sin(60°)}$
 3. **Nach b auflösen:** $b=\frac{10*\sin(60°)}{\sin(40°)}$
 4. **Berechnen:** $b\simeq 13,47cmn$
+
+## Cosinussatz
+Wird verwendet wenn der Sinussatz nicht ausreicht. Gilt als Verallgemeinerung des Satz des Pythagoras
+
+### Formel
+$a^2=b^2+c^2-2bc*\cos(\alpha)$
