@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trigonometrie/Formeln.md",
+                "file": "Analysis/Grenzwert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formeln"
+              "title": "Grenzwert"
             }
           }
         ]
@@ -196,26 +196,33 @@
   },
   "active": "4e4fbe2f528b6891",
   "lastOpenFiles": [
+    "Analysis/Kurvendiskussion.md",
+    "Analysis/Grenzwert.md",
     "Trigonometrie/Formeln.md",
+    "Geometrie/Strahlensätze.md",
+    "Trigonometrie/Trigonometrie.base",
+    "Analysis/Funktionen.base",
+    "Analysis/Verkettung.md",
+    "Analysis/Bijektiv.md",
+    "Analysis/Injektiv.md",
+    "Analysis/Surjektiv.md",
+    "Pasted image 20260325173134.png",
+    "Pasted image 20260325172149.png",
+    "Geometrie",
     "Mengenlehre/Definitionsmenge.md",
     "Unbenannt.base",
     "Mathe-remote",
-    "Funktionen/Verkettung.md",
     "Pasted image 20260323152443.png",
     "Pasted image 20260323131646.png",
     "Trigonometrie",
-    "Funktionen/Surjektiv.md",
     "Mengenlehre/Wertemenge.md",
-    "Funktionen/Bijektiv.md",
-    "Funktionen/Injektiv.md",
     "Funktionen/Unbenannt.canvas",
-    "Funktionen/Funktionen.base",
     "Unbenannt.md",
     "Unbenannt 1.md",
     "2026-03-23.md",
     "Unbenannt.canvas",
     "Willkommen.md",
-    "Funktionen",
+    "Analysis",
     "Mengenlehre",
     "Unbenannt 1.base",
     "Unbenannt 2.base"

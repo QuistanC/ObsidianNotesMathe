@@ -1,4 +1,4 @@
-Bijektivität beschreibt das Abbildungsverhalten von Funktionen. Eine Funktion ist bijektiv wenn sie sowohl [[surjektiv]] als auch [[Injektiv]] sind. Dies bedeutet, jedes Element der Zielmenge wird genau einmal getroffen, und die Funktion ist umkehrbar.
+Bijektivität beschreibt das Abbildungsverhalten von Funktionen. Eine Funktion ist bijektiv wenn sie sowohl [[Surjektiv]] als auch [[Injektiv]] sind. Dies bedeutet, jedes Element der Zielmenge wird genau einmal getroffen, und die Funktion ist umkehrbar.
 
 **Definition:** Eine Abbildung ist bijektiv, wenn sie sowohl injektiv als auch surjektiv ist.
 **Formel:** $f: A\to B$ zwischen den zwei Mengen A und B ist also bijektiv, wenn zu jedem $y\in B$ genau ein $x\in A$ mit $f(x)=y$ existiert.

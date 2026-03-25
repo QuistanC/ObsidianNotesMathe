@@ -63,6 +63,11 @@ Gegeben ist ein Dreieck ABC:
 
 ## Cosinussatz
 Wird verwendet wenn der Sinussatz nicht ausreicht. Gilt als Verallgemeinerung des Satz des Pythagoras
-
 ### Formel
-$a^2=b^2+c^2-2bc*\cos(\alpha)$
+1. $a^2=b^2+c^2-2bc*\cos\alpha$
+2. $b^2=a^2+c^2-2ac*\cos{\beta}$
+3. $c^2=a^2+b^2-2ab*\cos\gamma$
+
+**Beispielhafte Umstellungsmöglichkeiten:**
+$\cos\gamma=\frac{a^2+b^2-c^2}{2ab}$
+$\gamma=\cos^{-1}(\frac{a^2+b^2-c^2}{2ab})$

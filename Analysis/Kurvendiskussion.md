@@ -1,0 +1,1 @@
+Die Kurvendiskussion beschäftigt sich mit der ausführlichen Untersuchung 
